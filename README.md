@@ -1,6 +1,6 @@
 # Vipps Summer Internship - Technical case - Android
 
-This is a technical internship task from Vipps. The task is to retrieve information from Restful countries API and show it in an Android app.
+This is a technical internship task from Vipps. The task is to retrieve information from [Restful countries API](https://restfulcountries.com/api-documentation/version/1) and show it in an Android app.
 
 ## The task
 
