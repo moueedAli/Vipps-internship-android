@@ -1,4 +1,4 @@
-#Vipps Summer Internship - Techincal case - Android
+# Vipps Summer Internship - Techincal case - Android
 
 This is a techincal internship task from Vipps. The task is to retrive information from  Restful countries API and show it in an android app.
 
